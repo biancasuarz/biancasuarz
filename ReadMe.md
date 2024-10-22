@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou uma desenvolvedora com foco em Java, sempre em busca de novos desafios e aprimoramento das minhas habilidades de programação. Estou constantemente explorando novas tecnologias e práticas para melhorar minha eficiência no desenvolvimento de software.<br><br>💻 Áreas de interesse:<br><br>-Desenvolvimento em Java<br>-Algoritmos e estruturas de dados<br>-Machine learning e inteligência artificial<br><br>📫 Entre em contato<br>Sinta-se à vontade para me contatar para colaborações ou trocar ideias sobre projetos!
+Sou uma desenvolvedora com foco em Java, sempre em busca de novos desafios e aprimoramento das minhas habilidades de programação. Estou constantemente explorando novas tecnologias e práticas para melhorar minha eficiência no desenvolvimento de software.<br><br>💻 Áreas de interesse:<br><br>-Desenvolvimento em Java<br>-Algoritmos e estruturas de dados<br>-Machine Learning e Inteligência Artificial<br><br>📫 Entre em contato<br>Sinta-se à vontade para me contatar para colaborações ou trocar ideias sobre projetos!
 
 
 ## 🌐 Socials:
