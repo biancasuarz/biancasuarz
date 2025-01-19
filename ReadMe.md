@@ -80,9 +80,8 @@ _API para blog pessoal, com deploy no Render e documentação via Swagger._
 ### 🚗 [**Jogo de Corrida**](https://github.com/biancasuarz/Games)  
 _Jogo de corrida desenvolvido em JavaFX._  
 **Destaques**:  
- Interface gráfica imersiva criada com JavaFX.  
+ Interface criada com JavaFX.  
  Programação orientada a objetos para gerenciar estados do jogo.  
- Elementos interativos e responsivos.
 
 </div>
 
