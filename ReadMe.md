@@ -103,9 +103,6 @@ _Jogo de corrida desenvolvido em JavaFX._
 
 <div align="center">
 
-## 📬 **Contato**
-📧 Email: biancasuarz@example.com  
-📍 Localização: Brasil
 
 🌟 **"A tecnologia pode mudar o mundo, mas é a paixão de quem a desenvolve que faz a diferença!"**
 
