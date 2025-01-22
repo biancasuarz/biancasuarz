@@ -103,6 +103,6 @@ _Jogo de corrida desenvolvido em JavaFX._
 <div align="center">
 
 
-🌟 **"A tecnologia pode mudar o mundo, mas é a paixão de quem a desenvolve que faz a diferença!"**
+🌟 **"A tecnologia pode mudar o mundo, mas é a paixão de quem a desenvolve que faz a diferença!"** <3
 
 </div>
