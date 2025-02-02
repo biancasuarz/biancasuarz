@@ -94,7 +94,7 @@ _Jogo de corrida desenvolvido em JavaFX._
 🌟 Conecte-se comigo para discutir ideias, colaborações ou projetos interessantes:  <br><br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/biancasuarz) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/biancasuarz) 
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@biancasuarzdev) 
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@biancasuarzdev)  
 
 </div>
 
