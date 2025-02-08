@@ -1,6 +1,6 @@
 <div align="center">
  
-# 👩‍💻 **Bianca Soares**  
+# 👩‍💻 **Bianca Soares**   
 **Desenvolvedora Full Stack | Apaixonada por tecnologia e inovação**  
 _Sempre em busca de aprendizado e pronta para resolver problemas complexos através do código._ 
 
