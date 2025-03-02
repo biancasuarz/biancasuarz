@@ -6,7 +6,7 @@ _Sempre em busca de aprendizado e pronta para resolver problemas complexos atrav
 
 </div> 
    
----
+--- 
 
 <div align="center">
 
