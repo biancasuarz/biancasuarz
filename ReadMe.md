@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">  
    
 # 👩‍💻 **Bianca Soares**     
 **Desenvolvedora Full Stack | Apaixonada por tecnologia e inovação**    
