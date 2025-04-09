@@ -59,7 +59,7 @@ _API para blog pessoal, com deploy no Render e documentação via Swagger._
  API documentada utilizando Swagger.  
  Desenvolvimento com foco na acessibilidade e usabilidade.
 
----
+--- 
 
 ### 🚗 [**Jogo de Corrida**](https://github.com/biancasuarz/Games)  
 _Jogo de corrida desenvolvido em JavaFX._  
