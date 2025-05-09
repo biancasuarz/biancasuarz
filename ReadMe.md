@@ -10,12 +10,16 @@ _Sempre em busca de aprendizado e pronta para resolver problemas complexos atrav
   
 <div align="center">
 
-### 💡 **Sobre mim**
-🌟 Desenvolvedora Full Stack em constante evolução, apaixonada por criar soluções criativas e impactantes. Adoro aprender novas tecnologias e colaborar em projetos desafiadores!<br>  
-💼 Atualmente explorando áreas como **Java**, **Machine Learning**, e **Inteligência Artificial**.<br>  
-🌱 **Habilidades em desenvolvimento**:
- Resolver problemas com eficiência.
- Aprender e aplicar novas tecnologias rapidamente.
+###  **Sobre mim**
+💼 Desenvolvedora Full Stack Java Web<br>  
+💡 Atualmente explorando áreas como **Data Science** e **Inteligência Artificial**(sou apaixonada).<br>  
+🌱 **Habilidades em desenvolvimento**:<br> 
+ Backend | Java | Spring Boot | Banco de Dados (MySQL | PostgreeSQL | MariaDB | Amazon RDS)<br> 
+ Testes Unitários e Automatizados | Insomnia | Postman | JUnit <br> 
+ Frontend | TypeScript | React | Tailwind CSS | HTML | JavaScript<br> 
+ Dados | Python | Matplotlib | Pandas | Modelagem | SQL | Excel | Power BI<br> 
+ Inteligência Artificial | PyTorch | Scikit-learn { em formação }<br> <br> 
+ Aprender e aplicar novas tecnologias rapidamente.<br> 
  Colaborar em equipes para criar impacto positivo.<br><br>
 🚀 **Missão**: Usar a tecnologia para transformar vidas e construir um mundo melhor.
 
