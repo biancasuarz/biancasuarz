@@ -1,7 +1,7 @@
 <div align="center">  
       
 # 👩‍💻 **Bianca Soares**       
-
+ 
 ### 💼 Desenvolvedora Full Stack Java Web<br>
  
 💡 Atualmente explorando áreas como **Data Science** e **Inteligência Artificial**(sou apaixonada).<br>  
