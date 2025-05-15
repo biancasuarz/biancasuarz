@@ -5,7 +5,7 @@
 ### 💼 Desenvolvedora Full Stack Java Web<br>
  
 💡 Atualmente explorando áreas como **Data Science** e **Inteligência Artificial**(sou apaixonada).<br>  
-
+  
 🌱 **Habilidades**:<br> 
 
  Backend | Java | Spring Boot | Banco de Dados (MySQL | PostgreeSQL | MariaDB | Amazon RDS)<br> 
