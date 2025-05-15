@@ -75,11 +75,6 @@ _Jogo de corrida desenvolvido em JavaFX._
 
 
 🌟 **"A tecnologia pode mudar o mundo, mas é a paixão de quem a desenvolve que faz a diferença!"** <3 <br><br>
-![Visitors](https://img.shields.io/badge/dynamic/json?label=visitas&query=value&url=https://api.countapi.xyz/hit/biancasuarz/biancasuarz)
-
-
-
-
 
 </div>
 
