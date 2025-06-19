@@ -28,8 +28,6 @@
 ## 📈 **Estatísticas do GitHub**
   
 <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-<img src="https://github-readme-stats.vercel.app/api?username=biancasuarz&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150px" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=biancasuarz&theme=radical&hide_border=false" alt="GitHub Streak" height="150px" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biancasuarz&theme=radical&hide_border=false&layout=compact" alt="Top Languages" height="150px" />
 
