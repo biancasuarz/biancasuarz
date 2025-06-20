@@ -39,38 +39,6 @@
 
 <div align="center">
 
-## 🌟 **Projetos em Destaque**
-
-### 🎮 [**AtariBoot**](https://github.com/biancasuarz/AtariBoot)  
-_Backend para loja de games, desenvolvido com Spring Framework._  
-**Destaques**:  
- Arquitetura RESTful moderna.  
- Boas práticas de segurança e integração com banco de dados.  
- Abordagem centrada no cliente.
-
----
-
-### 📚 [**Blog Pessoal**](https://github.com/biancasuarz/db_blogpessoal)  
-_API para blog pessoal, com deploy no Render e documentação via Swagger._  
-**Destaques**:  
- Deploy funcional no Render.  
- API documentada utilizando Swagger.  
- Desenvolvimento com foco na acessibilidade e usabilidade.
-
---- 
-
-### 🚗 [**Jogo de Corrida**](https://github.com/biancasuarz/Games)  
-_Jogo de corrida desenvolvido em JavaFX._  
-**Destaques**:  
- Interface criada com JavaFX.  
- Programação orientada a objetos para gerenciar estados do jogo.  
-
-</div>
-
----
-
-<div align="center">
-
 
 🌟 **"A tecnologia pode mudar o mundo, mas é a paixão de quem a desenvolve que faz a diferença!"** <3 <br><br>
 
