@@ -2,7 +2,7 @@
       
 # 👩‍💻 **Bianca Soares**       
  
-### 💼 Desenvolvedora Full Stack Java Web<br>
+### 💼 Desenvolvedora Full Stack Java <br>
  
 💡 Atualmente explorando áreas como **Data Science** e **Inteligência Artificial**(sou apaixonada).<br>  
   
@@ -11,8 +11,8 @@
  Backend | Java | Spring Boot | Banco de Dados (MySQL | PostgreeSQL | MariaDB | Amazon RDS)<br> 
  Testes Unitários e Automatizados | Insomnia | Postman | JUnit <br> 
  Frontend | TypeScript | React | Tailwind CSS | HTML | JavaScript<br> 
- Dados | Python | Matplotlib | Pandas | Modelagem | SQL | Excel | Power BI<br> 
- Inteligência Artificial | PyTorch | Scikit-learn { em formação }<br> <br> 
+ Dados | Python | Matplotlib | Pandas | Modelagem | SQL | Excel <br> 
+ 
  
  Aprender e aplicar novas tecnologias rapidamente.<br> 
  Colaborar em equipes para criar impacto positivo.<br><br>
